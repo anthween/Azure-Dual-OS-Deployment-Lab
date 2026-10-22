@@ -23,7 +23,7 @@ This is an practical lab I built to show basic practical skills in cloud deploym
   ![Azure Portal](azure-portal.png)
 
   ### 2. Windows Automation Script
-  ![Windows Deployment](windows-deployment.png)
+  ![Windows Deployment](windows-deployment1.png)
 
   ### 3. Linux Package Installation
   ![Linux Deployment](linux-deployment.png)
